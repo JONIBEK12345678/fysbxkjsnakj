@@ -1,4 +1,11 @@
-@import url(nav.css);
-@import url(header.css);
-@import url(main.css);
-@import url(footer.css);/*# sourceMappingURL=style.css.map */
+.nav {
+  /* background-color: red; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 30px;
+}
+.nav-text {
+  display: flex;
+  gap: 30px;
+}/*# sourceMappingURL=style.css.map */
